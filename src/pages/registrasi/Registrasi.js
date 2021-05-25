@@ -58,7 +58,7 @@ export class Registrasi extends Component {
                             <label>Username :</label>
                             <input type="text" placeholder="Enter Your Username" onChange={this.handleChange}/>
                         </div>
-                        <button type="submit" onClick={this.handleSubmit}>Registrasi</button>
+                        <button type="submit" >Registrasi</button>
                     </form>
                 </div> 
             </div>
